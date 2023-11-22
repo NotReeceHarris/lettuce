@@ -1,7 +1,6 @@
 <p align="center"><img src="/assets/logo-repositioned.svg" width="160"></p>
 
-<br>
-
+> A lattice-based post-quantum encryption layer designed to augment security beyond an established standardized encryption protocol. This additional layer enhances protection against emerging quantum threats, providing an extra safeguard for sensitive data.
 
 ## How lattices are used in encryption
 
